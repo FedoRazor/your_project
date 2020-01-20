@@ -1,0 +1,14 @@
+
+Initiating NSE at 13:13
+Completed NSE at 13:13, 0.00s elapsed
+Initiating SYN Stealth Scan at 13:13
+Scanning 127.0.0.1 [1000 ports]
+Discovered open port 554/tcp on 127.0.0.1
+Discovered open port 135/tcp on 127.0.0.1
+Discovered open port 445/tcp on 127.0.0.1
+Discovered open port 3389/tcp on 127.0.0.1
+Discovered open port 2869/tcp on 127.0.0.1
+Discovered open port 5357/tcp on 127.0.0.1
+Discovered open port 10243/tcp on 127.0.0.1
+Discovered open port 2179/tcp on 127.0.0.1
+
