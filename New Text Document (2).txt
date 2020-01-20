@@ -1,0 +1,4 @@
+ -SwitchName  -SwitchType Internal
+Get-NetAdapter
+New-NetIPAddress -IPAddress  
+New-NetNat -Name "vNAT" -InternalIPInterfaceAddressPrefix 
